@@ -1,0 +1,1 @@
+Remember to check the animations references at https://docs.google.com/document/d/1_7uFOITwqim1FsV0dkvBfNE6hKpWALOKbCORP9f_LRg/edit# to understand better each of them.
